@@ -1,7 +1,7 @@
 # Form-Validation
 
-## This is a form (Is not real and won't record your information)
+## This is a form that has a cool border effect
 
-### Made by: TheWhiteHackers
+## Please Note: This is not real and won't record your information
 
-#### Created using JS, HTML, and CSS
+![image of sign-in page](./formpic.png)
